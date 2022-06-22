@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.app.notepad.NotepadApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.855 s - in com.app.notepad.NotepadApplicationTests
